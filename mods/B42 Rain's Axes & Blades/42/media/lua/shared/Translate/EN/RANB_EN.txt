@@ -1,0 +1,15 @@
+ItemName_EN = {
+ItemName_RainsToolsandBlades.MacheteBush = "Bush Machete",
+ItemName_RainsToolsandBlades.SawbackMachete = "Sawback Machete",
+ItemName_RainsToolsandBlades.CurvedMachete = "Curved Machete",
+ItemName_RainsToolsandBlades.KatanaB = "Katana",
+ItemName_RainsToolsandBlades.Wakizashi = "Wakizashi",
+ItemName_RainsToolsandBlades.WakizashiB = "Wakizashi",
+ItemName_RainsToolsandBlades.Handy = "Hatchet",
+ItemName_RainsToolsandBlades.Axy = "Axe (Fiberglass)",
+ItemName_RainsToolsandBlades.Bearded = "Bearded Hatchet",
+ItemName_RainsToolsandBlades.AxeMaul = "Axe-Maul",
+ItemName_RainsToolsandBlades.Swiss = "Swiss Army Knife",
+ItemName_RainsToolsandBlades.TantoA = "Tanto",
+ItemName_RainsToolsandBlades.TantoB = "Tanto",
+}
